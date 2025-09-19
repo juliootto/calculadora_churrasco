@@ -34,7 +34,7 @@ O aplicativo utiliza as seguintes estimativas de consumo por pessoa:
 
 1. **Clone o repositório:**
    ```sh
-   git clone ttps://github.com/juliootto/calculadora_churrasco.git
+   git clone https://github.com/juliootto/calculadora_churrasco.git
    ```
 2. **Entre no diretório do projeto:**
    ```sh
