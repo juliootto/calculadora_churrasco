@@ -54,7 +54,7 @@ class _HomeState extends State<Home> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           // Espaçamento entre os widgets da coluna
-          // spacing: 20, // Removido pois não é uma propriedade de Column diretamente
+          spacing: 20, 
           children: <Widget>[
             // Seletor de quantidade para Homens
             SeletorQuantidade(
