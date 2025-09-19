@@ -4,7 +4,7 @@ Um aplicativo simples desenvolvido em Flutter para ajudar a planejar seu churras
 
 ## 📸 Tela do App
 
-
+![alt text](https://github.com/juliootto/calculadora_churrasco/blob/master/tela.png "Calculadora de Churrasco")
 
 ## ✨ Funcionalidades
 
